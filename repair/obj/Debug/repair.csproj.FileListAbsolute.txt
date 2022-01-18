@@ -1,0 +1,9 @@
+C:\Users\Sam Cold\RiderProjects\repair\repair\bin\Debug\repair.exe
+C:\Users\Sam Cold\RiderProjects\repair\repair\bin\Debug\repair.pdb
+C:\Users\Sam Cold\RiderProjects\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+C:\Users\Sam Cold\RiderProjects\repair\repair\obj\Debug\repair.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sam Cold\RiderProjects\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+C:\Users\Sam Cold\RiderProjects\repair\repair\obj\Debug\repair.exe
+C:\Users\Sam Cold\RiderProjects\repair\repair\obj\Debug\repair.pdb
+C:\Users\Sam Cold\RiderProjects\repair\repair\obj\Debug\RepairDoc.RootForm.resources
+C:\Users\Sam Cold\RiderProjects\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
