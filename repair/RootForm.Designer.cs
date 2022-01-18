@@ -38,7 +38,6 @@ namespace Repair {
 			this.btnLoadTemplate.TabIndex = 0;
 			this.btnLoadTemplate.Text = "Открыть документ";
 			this.btnLoadTemplate.UseVisualStyleBackColor = true;
-			this.btnLoadTemplate.Click += new System.EventHandler(this.OpenTemplate);
 			// 
 			// RootForm
 			// 

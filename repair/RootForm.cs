@@ -8,9 +8,6 @@ namespace Repair {
 			InitializeComponent();
 		}
 
-		private void OpenTemplate(object sender, EventArgs e) {
-			Console.WriteLine("OK");
-		}
 
 	}
 }
